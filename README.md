@@ -58,7 +58,7 @@ Certain soil types under similar conditions perform better, indicating a need fo
 
 Download or clone the repository:
 
-git clone https://github.com/<Munavvara-17>/<Predicting-Plant-Growth-Stages-with-Environmental-and-Management-Data-Using-Power-BI>.git 
+git clone https://github.com/<Munavvara-17>/<Predicting-Plant-Growth-Stages-with-Environmental-and-Management-Data-Using-Power-BI>
 
 Open the Power BI file (.pbix) in Microsoft Power BI Desktop.
 
